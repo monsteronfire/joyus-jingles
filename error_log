@@ -1,0 +1,2 @@
+[17-Dec-2013 10:31:58] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/wearevl/public_html/Joyus/gallery.php on line 13
+[17-Dec-2013 10:32:25] PHP Fatal error:  Call to undefined function  rows() in /home/wearevl/public_html/Joyus/gallery.php on line 4
