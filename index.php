@@ -21,7 +21,7 @@ include 'header.php';
 
 		<div class="dino-audio-wrapper cf">
 			<div class="btn-join">
-				<a href="join.php"></a>
+				<a href="#"></a>
 			</div>
 
 			<div class="audio-bg">
